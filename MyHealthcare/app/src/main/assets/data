@@ -1,0 +1,92 @@
+[
+  {
+    "tenBenh": "Bỏng nhẹ",
+    "huongDan": {
+      "trieuChung": "Da đỏ, đau rát, phồng rộp nhẹ...\nVùng bỏng nóng và sưng nhẹ...",
+      "viecNenLam": "Làm mát vết bỏng bằng nước sạch mát (không lạnh) trong 10-15 phút...\nBọc vết thương bằng gạc sạch, không dính...\nUống nhiều nước để tránh mất nước...",
+      "viecKhongNenLam": "Không bôi kem đánh răng, dầu ăn hoặc đá trực tiếp lên vết bỏng...\nKhông làm vỡ bóng nước trên da...",
+      "cachXuLy": "Nếu vùng bỏng lớn hơn lòng bàn tay hoặc ở mặt, tay, bộ phận sinh dục, cần đến cơ sở y tế..."
+    }
+  },
+  {
+    "tenBenh": "Chảy máu cam",
+    "huongDan": {
+      "trieuChung": "Chảy máu từ một hoặc cả hai lỗ mũi...\nCảm thấy nóng trong mũi, có thể đau đầu nhẹ...",
+      "viecNenLam": "Ngồi nghiêng nhẹ người về phía trước...\nDùng tay bóp nhẹ phần mềm của mũi trong 10 phút...\nChườm lạnh vùng mũi...",
+      "viecKhongNenLam": "Không ngửa đầu ra sau, dễ gây nuốt máu...\nKhông ngoáy mũi hoặc xì mạnh sau khi máu ngừng...",
+      "cachXuLy": "Nếu máu chảy không dừng sau 20 phút, hoặc chảy quá nhiều, cần đi khám..."
+    }
+  },
+  {
+    "tenBenh": "Côn trùng cắn",
+    "huongDan": {
+      "trieuChung": "Sưng, đỏ, ngứa tại chỗ bị cắn...\nTrong trường hợp nghiêm trọng: khó thở, chóng mặt, sưng môi/mắt...",
+      "viecNenLam": "Rửa sạch vùng da bằng xà phòng và nước...\nChườm lạnh để giảm sưng...\nDùng thuốc kháng histamin nếu ngứa nhiều...",
+      "viecKhongNenLam": "Không gãi hoặc cào mạnh gây trầy xước da...\nKhông tự ý lấy kim chích nếu dị vật nằm sâu dưới da...",
+      "cachXuLy": "Nếu có dấu hiệu sốc phản vệ (khó thở, sưng môi, ngất), gọi cấp cứu ngay..."
+    }
+  },
+  {
+    "tenBenh": "Bị vật nhọn đâm",
+    "huongDan": {
+      "trieuChung": "Chảy máu, đau nhói, có dị vật cắm vào da...\nNguy cơ nhiễm trùng nếu không xử lý đúng...",
+      "viecNenLam": "Nếu có dị vật lớn, giữ nguyên không rút ra...\nDùng gạc ép nhẹ để cầm máu...\nRửa sạch vùng quanh vết thương bằng nước muối sinh lý...",
+      "viecKhongNenLam": "Không rút dị vật nếu sâu hoặc gần vùng quan trọng...\nKhông dùng bông gòn dính vào vết thương...",
+      "cachXuLy": "Đưa người bị thương đến cơ sở y tế để tiêm phòng uốn ván và xử lý sạch..."
+    }
+  },
+  {
+    "tenBenh": "Ngộ độc khí CO",
+    "huongDan": {
+      "trieuChung": "Chóng mặt, buồn nôn, nhức đầu...\nMệt mỏi, khó thở, bất tỉnh nếu nặng...",
+      "viecNenLam": "Đưa nạn nhân ra khỏi nơi có khí độc ngay lập tức...\nMở cửa thông gió, gọi cấp cứu...\nNới lỏng quần áo, giữ nạn nhân tỉnh táo nếu có thể...",
+      "viecKhongNenLam": "Không quay trở lại nơi có khí độc khi chưa an toàn...\nKhông để nạn nhân ở nơi kín...",
+      "cachXuLy": "Nếu bất tỉnh, không thở, cần hô hấp nhân tạo và gọi cấp cứu ngay..."
+    }
+  },
+  {
+    "tenBenh": "Động kinh",
+    "huongDan": {
+      "trieuChung": "Co giật toàn thân, mất ý thức, sùi bọt mép...\nCó thể té ngã đột ngột, không phản ứng...",
+      "viecNenLam": "Đặt nạn nhân nằm nghiêng, tránh va đập đầu...\nGỡ vật cứng quanh cổ (nếu có)...\nGhi nhớ thời gian cơn co giật diễn ra...",
+      "viecKhongNenLam": "Không nhét vật gì vào miệng nạn nhân...\nKhông cố giữ tay chân khi họ đang co giật...",
+      "cachXuLy": "Nếu cơn kéo dài >5 phút hoặc liên tục không tỉnh lại, cần cấp cứu gấp..."
+    }
+  },
+  {
+    "tenBenh": "Dị vật đường thở (hóc nghẹn)",
+    "huongDan": {
+      "trieuChung": "Không thở được, ho yếu, mặt tím tái...\nCó thể đặt tay lên cổ ra dấu nghẹn...",
+      "viecNenLam": "Thực hiện thủ thuật Heimlich nếu nạn nhân còn tỉnh...\nGọi cấp cứu nếu không lấy được dị vật...",
+      "viecKhongNenLam": "Không vỗ mạnh lung khi nạn nhân đứng thẳng và đang ho...\nKhông cố móc họng nếu không thấy dị vật...",
+      "cachXuLy": "Nếu bất tỉnh, bắt đầu ép ngực và hô hấp nhân tạo, chờ cấp cứu đến..."
+    }
+  },
+  {
+    "tenBenh": "Ngất xỉu",
+    "huongDan": {
+      "trieuChung": "Đột ngột mất ý thức ngắn, da tái, mồ hôi lạnh...\nCó thể hồi tỉnh sau vài giây đến vài phút...",
+      "viecNenLam": "Đặt nạn nhân nằm ngửa, nâng chân cao...\nNới lỏng quần áo, quạt nhẹ giúp hô hấp...\nGiữ yên tĩnh, tránh đông người vây quanh...",
+      "viecKhongNenLam": "Không vội nâng dậy khi chưa tỉnh...\nKhông vỗ mạnh vào mặt...",
+      "cachXuLy": "Nếu ngất kéo dài, không tỉnh lại sau vài phút, cần cấp cứu ngay..."
+    }
+  },
+  {
+    "tenBenh": "Sốc nhiệt",
+    "huongDan": {
+      "trieuChung": "Da nóng, khô, đỏ, nhịp tim nhanh...\nChoáng váng, buồn nôn, thậm chí mất ý thức...",
+      "viecNenLam": "Đưa vào nơi mát, thoáng khí...\nCởi bớt quần áo, chườm mát vùng cổ, nách, bẹn...\nUống nước mát từng ngụm nhỏ nếu tỉnh...",
+      "viecKhongNenLam": "Không dội nước lạnh đột ngột nếu bệnh nhân hôn mê...\nKhông để bệnh nhân tiếp xúc nắng tiếp tục...",
+      "cachXuLy": "Gọi cấp cứu nếu không tỉnh lại hoặc có dấu hiệu sốc..."
+    }
+  },
+  {
+    "tenBenh": "Tăng đường huyết",
+    "huongDan": {
+      "trieuChung": "Khát nước liên tục, đi tiểu nhiều, mệt mỏi, nhìn mờ...\nCó thể hôn mê nếu không điều trị...",
+      "viecNenLam": "Đo đường huyết nếu có thiết bị...\nCho uống nước lọc, nghỉ ngơi...\nGọi cấp cứu nếu có dấu hiệu hôn mê...",
+      "viecKhongNenLam": "Không ăn thực phẩm có đường hoặc carbohydrate cao...\nKhông trì hoãn đưa đến cơ sở y tế nếu tình trạng xấu đi...",
+      "cachXuLy": "Nếu không tỉnh, hô hấp khó khăn → gọi cấp cứu ngay lập tức..."
+    }
+  }
+]

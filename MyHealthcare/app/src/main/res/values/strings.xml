@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyHealthCare</string>
+    <string name="trang_chu">TRANG CHỦ</string>
+    <string name="notification">Notification</string>
+    <string name="nhiet_do_thoi_tiet">Nhiệt độ, thời tiết, ...</string>
+    <string name="zero">0</string>
+    <string name="kien_thuc_so_cuu">KIẾN THỨC SƠ CỨU</string>
+    <string name="lien_lac_benh_vien">LIÊN LẠC - BỆNH VIỆN</string>
+    <string name="kien_thuc_dinh_duong">KIẾN THỨC DINH DƯỠNG</string>
+    <string name="benh_ly">BỆNH LÝ</string>
+    <string name="reset">Reset</string>
+    <string name="save">Save</string>
+    <string name="buoc_chan">Bước chân</string>
+    <string name="t2">T.2</string>
+    <string name="t3">T.3</string>
+    <string name="t4">T.4</string>
+    <string name="t5">T.5</string>
+    <string name="t6">T.6</string>
+    <string name="t7">T.7</string>
+    <string name="cn">CN</string>
+    <string name="profile">Profile</string>
+    <string name="heart">Heart</string>
+    <string name="car">Car</string>
+    <string name="location">Location</string>
+    <string name="contact">Contact</string>
+    <string name="trieu_chung">Triệu chứng:</string>
+    <string name="viec_nen_lam">Việc nên làm:</string>
+    <string name="viec_khong_nen_lam">Việc không nên làm:</string>
+    <string name="cach_xu_ly">Cách xử lý:</string>
+    <string name="close">Đóng</string>
+</resources>

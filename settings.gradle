@@ -1,0 +1,4 @@
+rootProject.name = "BTL_android"
+
+include ':MyHealthcare:app'
+include ':Backend'
